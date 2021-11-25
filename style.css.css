@@ -35,11 +35,11 @@ h1{
   color: white;
 }
 .button-style{
-  background-color: #5f4bb6;
+  background-color: #4c29e9;
 }
 .btn{
-  background-color: orange;
+  background-color: rgb(17, 0, 255);
 }
 .button:hover{
-  background-color: pink;
+  background-color: rgb(114, 96, 99);
 }
